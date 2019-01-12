@@ -3,7 +3,6 @@ package com.izdebski.client;
 import com.izdebski.model.Employee;
 import com.izdebski.service.EmployeeService;
 import com.izdebski.service.impl.EmployeeServiceImpl;
-import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
